@@ -1,0 +1,8 @@
+site_name: "hellospring"
+site_description: "hellospring"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

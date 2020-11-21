@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "hellospring"
+  description: "hellospring"
+  annotations:
+    github.com/project-slug: "ravanapel/hellospring"
+    backstage.io/techdocs-ref: github:https://github.com/ravanapel/hellospring
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "ravanapel"
